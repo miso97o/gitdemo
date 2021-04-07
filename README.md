@@ -1,3 +1,4 @@
 # gitdemo
 
-깃허브 수업 데모
+SW
+Static websie using github and template
